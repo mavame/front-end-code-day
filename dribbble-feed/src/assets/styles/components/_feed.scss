@@ -3,11 +3,11 @@
 	padding-bottom: 2rem;
 
 	&__item {
-		display: block;
 		margin-bottom: 2rem;
+		padding-right: 0.5rem;
 		padding-left: 0.5rem;
-		padding-left: 0.5rem;
-
+		float: left;
+		width: 25%;
 	}
 
 	&__image {
@@ -25,13 +25,11 @@
 		.feed__item-user {
 			text-align: left;
 			float: left;
-			width: 50%;
 		}
 
 		.feed__item-likes {
 			text-align: right;
 			float: right;
-			width: 50%;
 		}
 	}
 
