@@ -72,7 +72,7 @@ function templateFeed(data) {
 	function sort(shots, sortBy) {
 		var sorted = [];
 		if (typeof sortBy === 'undefined') {
-			sortBy = 'views';
+			sortBy = 'views_count';
 		}
 
 		sorted = shots.sort(function(a, b) {

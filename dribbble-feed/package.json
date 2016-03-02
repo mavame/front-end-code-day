@@ -30,6 +30,7 @@
     "gulp-util": "^3.0.1",
     "handlebars-loader": "^1.1.4",
     "imports-loader": "^0.6.4",
+    "jquery": "^2.2.1",
     "normalize.css": "^3.0.3",
     "run-sequence": "^1.0.2",
     "scripts-loader": "^0.1.3",
